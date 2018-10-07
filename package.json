@@ -1,0 +1,19 @@
+{
+  "name": "warren-chart",
+  "version": "0.0.1",
+  "description": "Chart visualization of Warren Brazil investment funds.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "warren",
+    "brazil",
+    "chart",
+    "visualization",
+    "investment",
+    "funds"
+  ],
+  "author": "Rodrigo Saling",
+  "license": "MIT"
+}
